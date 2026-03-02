@@ -1,0 +1,30 @@
+{
+    "Change Title": "0x8",
+    "Night Parade": "0x28",
+    "Reset": "0xbf",
+    "bg_alpha": 107,
+    "window_x": 1927,
+    "window_y": 1207,
+    "Passive Timer": 21,
+    "NP Skill 1": "0x46",
+    "NP Skill 2": "0x54",
+    "Concerto": "0x25",
+    "The Setting Sun": "0x26",
+    "Damage Title": "0x27",
+    "Awakening": "0xa2",
+    "Onion": "0x37",
+    "Superhuman Apple": "0x38",
+    "Fighter": "0x38",
+    "Passive": "0xa2",
+    "use_images": true,
+    "Image Scale": 60,
+    "Font Size": 14,
+    "Use Grid Layout": true,
+    "timer_visibility": {
+        "Concerto": true,
+        "Night Parade": true,
+        "The Setting Sun": true,
+        "Fighter": false,
+        "Passive": true
+    }
+}
